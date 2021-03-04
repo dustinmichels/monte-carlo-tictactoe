@@ -1,0 +1,1 @@
+-e git+https://github.com/haje01/gym-tictactoe.git@84e22fc28fe192ba0040bdd56a697f63d3d4a3d5#egg=gym_tictactoe
